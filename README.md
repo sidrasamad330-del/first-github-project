@@ -1,1 +1,4 @@
-My First github project. This contain files for my assignments.
+Name : Sidra Khan
+Date : 6 Dec 2025
+Purpose : Learning Git
+
